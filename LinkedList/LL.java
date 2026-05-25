@@ -8,7 +8,6 @@ package LinkedList;
     Node() {
         this.next = null;
     }
-
     //parameterised constructor
     Node(T data) {
         this.data = data;
